@@ -17,7 +17,7 @@ We take the security of Gemini MCP Server seriously. This document outlines our 
 
 ### How to Report
 
-1. **Email**: Send details to `security@example.com` (replace with actual contact)
+1. **Email**: Send details to `info@cyberlinksec.com`
 2. **Subject**: Use format `[SECURITY] Brief description`
 3. **Include**:
    - Description of the vulnerability
@@ -247,9 +247,9 @@ fi
 
 ## 📞 Contact
 
-- **Security Issues**: security@example.com
-- **General Support**: issues@example.com
-- **Security Team**: PGP key available at [keybase.io/yourproject]
+- **Security Issues**: info@cyberlinksec.com
+- **General Support**: info@cyberlinksec.com
+- **Security Team**: PGP key available at [keybase.io/bobvasic]
 
 ---
 

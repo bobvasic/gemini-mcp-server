@@ -402,7 +402,7 @@ node index.js 2>&1 | tee debug.log
 
 ### Reporting Security Issues
 
-Please report security vulnerabilities to **security@example.com**. Do not create public issues for security concerns.
+Please report security vulnerabilities to **info@cyberlinksec.com**. Do not create public issues for security concerns.
 
 See [SECURITY.md](SECURITY.md) for our full security policy.
 
