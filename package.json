@@ -1,0 +1,25 @@
+{
+  "name": "gemini-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Google Gemini 2.5 Pro API integration",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["mcp", "gemini", "ai", "llm", "google-ai", "terminal", "warp"],
+  "author": "Gemini MCP Server Contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/gemini-mcp-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/gemini-mcp-server/issues"
+  },
+  "homepage": "https://github.com/yourusername/gemini-mcp-server#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "@google/generative-ai": "^0.21.0"
+  }
+}

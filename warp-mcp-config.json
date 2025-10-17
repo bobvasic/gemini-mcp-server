@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "gemini": {
+      "command": "node",
+      "args": ["${HOME}/gemini-mcp-server/index.js"],
+      "env": {
+        "GEMINI_API_KEY": "PASTE_YOUR_API_KEY_HERE"
+      }
+    }
+  }
+}
