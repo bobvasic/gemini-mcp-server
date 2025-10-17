@@ -12,12 +12,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/gemini-mcp-server.git"
+    "url": "https://github.com/bobvasic/gemini-mcp-server.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/gemini-mcp-server/issues"
+    "url": "https://github.com/bobvasic/gemini-mcp-server/issues"
   },
-  "homepage": "https://github.com/yourusername/gemini-mcp-server#readme",
+  "homepage": "https://github.com/bobvasic/gemini-mcp-server#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.4",
     "@google/generative-ai": "^0.21.0"

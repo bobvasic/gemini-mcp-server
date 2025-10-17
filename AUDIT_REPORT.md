@@ -278,7 +278,7 @@ chmod +x index.js setup.sh  # Executed by user
    git init
    git add .
    git commit -m "Initial commit: Gemini MCP Server v1.0.0"
-   git remote add origin https://github.com/yourusername/gemini-mcp-server.git
+   git remote add origin https://github.com/bobvasic/gemini-mcp-server.git
    git push -u origin main
    ```
 

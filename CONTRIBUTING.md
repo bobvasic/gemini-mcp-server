@@ -281,8 +281,8 @@ Contributors will be:
 
 ## 💬 Questions?
 
-- 💬 Ask in [GitHub Discussions](https://github.com/yourusername/gemini-mcp-server/discussions)
-- 🐛 Check existing [Issues](https://github.com/yourusername/gemini-mcp-server/issues)
+- 💬 Ask in [GitHub Discussions](https://github.com/bobvasic/gemini-mcp-server/discussions)
+- 🐛 Check existing [Issues](https://github.com/bobvasic/gemini-mcp-server/issues)
 - 📧 Email maintainers (see README)
 
 ## 📚 Resources

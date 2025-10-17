@@ -77,7 +77,7 @@ Deep code review, bug detection, optimization suggestions, and explanations. Sup
 
 ```bash
 # Clone or download the repository
-git clone https://github.com/yourusername/gemini-mcp-server.git
+git clone https://github.com/bobvasic/gemini-mcp-server.git
 cd gemini-mcp-server
 
 # Install dependencies
@@ -410,7 +410,7 @@ We welcome contributions! Here's how you can help:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/gemini-mcp-server.git
+git clone https://github.com/bobvasic/gemini-mcp-server.git
 cd gemini-mcp-server
 
 # Install dependencies
@@ -454,7 +454,7 @@ MIT License - Copyright (c) 2025 Gemini MCP Server Contributors
 - [Model Context Protocol](https://modelcontextprotocol.io/) - MCP specification
 - [Google AI](https://ai.google.dev/) - Gemini API
 - [Warp Terminal](https://www.warp.dev/) - Modern terminal platform
-- All [contributors](https://github.com/yourusername/gemini-mcp-server/graphs/contributors) who helped build this project
+- All [contributors](https://github.com/bobvasic/gemini-mcp-server/graphs/contributors) who helped build this project
 
 ---
 
@@ -487,6 +487,6 @@ MIT License - Copyright (c) 2025 Gemini MCP Server Contributors
 
 If this project helped you, please ⭐ star the repository!
 
-[Documentation](https://github.com/yourusername/gemini-mcp-server/wiki) • [Issues](https://github.com/yourusername/gemini-mcp-server/issues) • [Discussions](https://github.com/yourusername/gemini-mcp-server/discussions)
+[Documentation](https://github.com/bobvasic/gemini-mcp-server/wiki) • [Issues](https://github.com/bobvasic/gemini-mcp-server/issues) • [Discussions](https://github.com/bobvasic/gemini-mcp-server/discussions)
 
 </div>
