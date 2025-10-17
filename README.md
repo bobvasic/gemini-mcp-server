@@ -382,12 +382,6 @@ node index.js 2>&1 | tee debug.log
 ```
 </details>
 
-### Getting Help
-
-- 📖 Check the [Wiki](https://github.com/yourusername/gemini-mcp-server/wiki)
-- 💬 Join [Discussions](https://github.com/yourusername/gemini-mcp-server/discussions)
-- 🐛 Report bugs via [Issues](https://github.com/yourusername/gemini-mcp-server/issues)
-
 ---
 
 ## 🔒 Security
