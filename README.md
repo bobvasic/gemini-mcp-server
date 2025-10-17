@@ -2,7 +2,7 @@
 
 <!-- Premium Warp Terminal Hero Banner -->
 <a href="https://app.warp.dev/referral/4YXPLX" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/warp-banner.svg" alt="Gemini MCP Server for Warp Terminal" width="100%" style="max-width: 1000px; border-radius: 12px;" />
+  <img src="./assets/warp-banner.png" alt="Gemini MCP Server for Warp Terminal" width="100%" style="max-width: 1000px; border-radius: 12px;" />
 </a>
 
 <br/><br/>
