@@ -1,8 +1,30 @@
 <div align="center">
 
+<!-- Premium Warp Terminal Hero Banner -->
+<a href="https://app.warp.dev/referral/4YXPLX" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/warp-banner.svg" alt="Gemini MCP Server for Warp Terminal" width="100%" style="max-width: 1000px; border-radius: 12px;" />
+</a>
+
+<br/><br/>
+
 # 🤖 Gemini MCP Server
+# Customized for Warp Terminal
 
 ### Model Context Protocol Server for Google Gemini API
+### Optimized for Modern Terminal Workflows
+
+<br/>
+
+<!-- Premium Download CTA -->
+<a href="https://app.warp.dev/referral/4YXPLX" target="_blank" rel="noopener noreferrer">
+  <img alt="Download Warp Terminal" src="https://img.shields.io/badge/%E2%9A%A1_Download_Warp_Terminal-00E5FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTMgMkg0QzIuOSAyIDIgMi45IDIgNFYyMEMyIDIxLjEgMi45IDIyIDQgMjJIMjBDMjEuMSAyMiAyMiAyMS4xIDIyIDIwVjExSDE1VjE4SDE4VjIwSDZWNEgxM1YyWiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" height="36" />
+</a>
+
+<p style="margin-top: 10px; font-size: 14px; color: #888;">
+  <strong>Get Warp Terminal at:</strong> <a href="https://app.warp.dev/referral/4YXPLX" target="_blank" rel="noopener noreferrer" style="color: #00E5FF; text-decoration: none; font-weight: bold;">warp.dev</a> ✨
+</p>
+
+<br/>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
