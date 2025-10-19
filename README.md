@@ -5,17 +5,17 @@
 # **Gemini UI Design Server**
 ## Enterprise-Grade UI/UX Design & Frontend Implementation Expert
 
-**MCP Server** · **Gemini 2.5 Pro** · **Enterprise Architecture**
+**MCP Server** · **Gemini 2.5 PRO** · **Enterprise Architecture**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-00e5ff?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Gemini](https://img.shields.io/badge/Gemini-2.5%20Pro-1a73e8?style=for-the-badge)](https://ai.google.dev/)
+[![Gemini](https://img.shields.io/badge/Gemini-2.5%20PRO-1a73e8?style=for-the-badge)](https://ai.google.dev/)
 [![MCP](https://img.shields.io/badge/MCP-Protocol-00e5ff?style=for-the-badge)](https://modelcontextprotocol.io/)
 [![Node.js](https://img.shields.io/badge/Node.js-≥18.0.0-1a73e8?style=for-the-badge)](https://nodejs.org/)
 
 ```
 🎯 SPECIALIZED AI AGENT FOR UI/UX DESIGN & FRONTEND ARCHITECTURE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Integrates Google Gemini 2.5 Pro as a world-class UI designer
+Integrates Google Gemini 2.5 PRO as a world-class UI designer
 accessible via MCP protocol from Claude AI in Warp Terminal
 ```
 
@@ -25,7 +25,7 @@ accessible via MCP protocol from Claude AI in Warp Terminal
 
 ## 🏗️ Architecture Overview
 
-**Purpose-Built MCP Server** providing enterprise-grade UI/UX design expertise through Gemini 2.5 Pro. Architected for seamless Claude-to-Gemini inter-agent communication within Warp Terminal's agentic development environment.
+**Purpose-Built MCP Server** providing enterprise-grade UI/UX design expertise through Gemini 2.5 PRO. Architected for seamless Claude-to-Gemini inter-agent communication within Warp Terminal's agentic development environment.
 
 ### Core Capabilities
 
@@ -178,7 +178,7 @@ Add to `~/.config/warp/mcp.json`:
 
 ```
 ┌──────────────┐      MCP Protocol      ┌─────────────────┐
-│   Claude AI  │ ←──────────────────────→│  Gemini 2.5 Pro │
+│   Claude AI  │ ←──────────────────────→│  Gemini 2.5 PRO │
 │  (Warp IDE)  │   UI/UX Consultation   │  (UI Designer)  │
 └──────────────┘                         └─────────────────┘
        ↓                                           ↓
@@ -191,7 +191,7 @@ Add to `~/.config/warp/mcp.json`:
 
 ## 📋 Prompt Engineering
 
-Gemini 2.5 Pro prompts are architecturally designed following Google's official best practices:
+Gemini 2.5 PRO prompts are architecturally designed following Google's official best practices:
 
 ✓ **Structured Role Definition** - Clear expert persona establishment  
 ✓ **Contextual Specifications** - Comprehensive requirement framing  
@@ -266,6 +266,6 @@ MIT License - Copyright © 2025 CyberLink Security
 ![Dark Blue](https://img.shields.io/badge/Theme-1a73e8-1a73e8?style=flat-square)
 ![Neon Green](https://img.shields.io/badge/Accent-00e5ff-00e5ff?style=flat-square)
 
-*Engineered by CyberLink Security | Powered by Gemini 2.5 Pro*
+*Engineered by CyberLink Security | Powered by Gemini 2.5 PRO*
 
 </div>
