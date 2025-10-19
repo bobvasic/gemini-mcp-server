@@ -1,6 +1,6 @@
 <div align="center">
 
-![Gemini UI Design Server](./assets/warp-banner.png)
+![Gemini UI Design Server](./assets/warp.png)
 
 # **Gemini UI Design Server**
 ## Enterprise-Grade UI/UX Design & Frontend Implementation Expert
