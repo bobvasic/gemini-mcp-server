@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "==================================="
-echo "Gemini MCP Server Setup"
+echo "Gemini UI Design Server Setup"
 echo "==================================="
 echo ""
 

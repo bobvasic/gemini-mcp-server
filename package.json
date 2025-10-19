@@ -1,23 +1,35 @@
 {
-  "name": "gemini-mcp-server",
+  "name": "gemini-ui-design-server",
   "version": "1.0.0",
-  "description": "MCP server for Google Gemini 2.5 Pro API integration",
+  "description": "Enterprise-Grade UI/UX Design & Frontend Implementation Expert powered by Google Gemini 2.5 Pro - MCP Server for Claude AI integration",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["mcp", "gemini", "ai", "llm", "google-ai", "terminal", "warp"],
-  "author": "Gemini MCP Server Contributors",
+  "keywords": [
+    "mcp",
+    "gemini",
+    "ui-design",
+    "ux-design",
+    "frontend",
+    "design-system",
+    "component-design",
+    "brand-identity",
+    "ai-designer",
+    "claude",
+    "warp"
+  ],
+  "author": "CyberLink Security",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bobvasic/gemini-mcp-server.git"
+    "url": "https://github.com/bobvasic/gemini-ui-design-server.git"
   },
   "bugs": {
-    "url": "https://github.com/bobvasic/gemini-mcp-server/issues"
+    "url": "https://github.com/bobvasic/gemini-ui-design-server/issues"
   },
-  "homepage": "https://github.com/bobvasic/gemini-mcp-server#readme",
+  "homepage": "https://github.com/bobvasic/gemini-ui-design-server#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.4",
     "@google/generative-ai": "^0.21.0"

@@ -1,514 +1,271 @@
 <div align="center">
 
-<!-- Premium Warp Terminal Hero Banner -->
-<a href="https://app.warp.dev/referral/4YXPLX" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/warp-banner.png" alt="Gemini MCP Server for Warp Terminal" width="100%" style="max-width: 1000px; border-radius: 12px;" />
-</a>
+![Gemini UI Design Server](./assets/warp-banner.png)
 
-<br/><br/>
+# **Gemini UI Design Server**
+## Enterprise-Grade UI/UX Design & Frontend Implementation Expert
 
-# 🤖 Gemini MCP Server
-# Customized for Warp Terminal
+**MCP Server** · **Gemini 2.5 Pro** · **Enterprise Architecture**
 
-### Model Context Protocol Server for Google Gemini API
-### Optimized for Modern Terminal Workflows
+[![License: MIT](https://img.shields.io/badge/License-MIT-00e5ff?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Gemini](https://img.shields.io/badge/Gemini-2.5%20Pro-1a73e8?style=for-the-badge)](https://ai.google.dev/)
+[![MCP](https://img.shields.io/badge/MCP-Protocol-00e5ff?style=for-the-badge)](https://modelcontextprotocol.io/)
+[![Node.js](https://img.shields.io/badge/Node.js-≥18.0.0-1a73e8?style=for-the-badge)](https://nodejs.org/)
 
-<br/>
-
-<!-- Premium Download CTA -->
-<a href="https://app.warp.dev/referral/4YXPLX" target="_blank" rel="noopener noreferrer">
-  <img alt="Download Warp Terminal" src="https://img.shields.io/badge/%E2%9A%A1_Download_Warp_Terminal-00E5FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTMgMkg0QzIuOSAyIDIgMi45IDIgNFYyMEMyIDIxLjEgMi45IDIyIDQgMjJIMjBDMjEuMSAyMiAyMiAyMS4xIDIyIDIwVjExSDE1VjE4SDE4VjIwSDZWNEgxM1YyWiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" height="36" />
-</a>
-
-<p style="margin-top: 10px; font-size: 14px; color: #888;">
-  <strong>Get Warp Terminal at:</strong> <a href="https://app.warp.dev/referral/4YXPLX" target="_blank" rel="noopener noreferrer" style="color: #00E5FF; text-decoration: none; font-weight: bold;">warp.dev</a> ✨
-</p>
-
-<br/>
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
-[![MCP](https://img.shields.io/badge/MCP-1.0.4-blue)](https://modelcontextprotocol.io/)
-[![Gemini](https://img.shields.io/badge/Gemini-2.0%20Flash-orange)](https://ai.google.dev/)
-
-**Seamlessly integrate Google Gemini AI into your Warp terminal workflow**
-
-[Features](#-features) • [Installation](#-installation) • [Configuration](#-configuration) • [Usage](#-usage) • [API Reference](#-api-reference) • [Contributing](#-contributing)
+```
+🎯 SPECIALIZED AI AGENT FOR UI/UX DESIGN & FRONTEND ARCHITECTURE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Integrates Google Gemini 2.5 Pro as a world-class UI designer
+accessible via MCP protocol from Claude AI in Warp Terminal
+```
 
 </div>
 
 ---
 
-## 📋 Overview
+## 🏗️ Architecture Overview
 
-Gemini MCP Server is a Model Context Protocol implementation that brings Google Gemini's powerful AI capabilities directly into your Warp terminal. Built with enterprise-grade standards, this server enables conversational AI, multi-turn dialogues, and intelligent code analysis through simple, well-defined tools.
+**Purpose-Built MCP Server** providing enterprise-grade UI/UX design expertise through Gemini 2.5 Pro. Architected for seamless Claude-to-Gemini inter-agent communication within Warp Terminal's agentic development environment.
 
-### Why Use This?
+### Core Capabilities
 
-✨ **Zero Configuration** - Works out of the box with Warp terminal  
-🔒 **Secure by Default** - API keys stored in environment variables  
-⚡ **High Performance** - Optimized for rapid response times  
-🎯 **Purpose-Built Tools** - Three focused tools for maximum utility  
-🌐 **Open Source** - MIT licensed, community-driven development
+```
+┌─────────────────────────────────────────────────────────────┐
+│  GEMINI 2.5 PRO UI DESIGN SPECIALIST                        │
+├─────────────────────────────────────────────────────────────┤
+│  ► Design UI Components      - Enterprise-grade components  │
+│  ► Review Implementations    - WCAG AAA compliance          │
+│  ► Generate Frontend Code    - Production-ready artifacts   │
+│  ► Architecture Consultation - Scalable system design       │
+│  ► Brand Identity Design     - Cohesive visual systems      │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## ✨ Features
+## 🚀 Quick Start
+
+### Prerequisites
+
+- **Node.js** ≥ 18.0.0
+- **Warp Terminal** (latest)
+- **Gemini API Key** → [Get Key](https://makersuite.google.com/app/apikey)
+
+### Installation
+
+```bash
+git clone https://github.com/bobvasic/gemini-ui-design-server.git
+cd gemini-ui-design-server
+npm install
+chmod +x index.js setup.sh
+```
+
+### Configuration
+
+**Method 1: Automated Setup**
+```bash
+./setup.sh YOUR_GEMINI_API_KEY
+```
+
+**Method 2: Manual Warp MCP Configuration**
+
+Add to `~/.config/warp/mcp.json`:
+
+```json
+{
+  "mcpServers": {
+    "gemini-ui-designer": {
+      "command": "node",
+      "args": ["${HOME}/gemini-ui-design-server/index.js"],
+      "env": {
+        "GEMINI_API_KEY": "YOUR_API_KEY_HERE"
+      }
+    }
+  }
+}
+```
+
+**Restart Warp Terminal** to activate.
+
+---
+
+## 🎨 Tool Reference
+
+### `design_ui_component`
+**Enterprise-grade component design with accessibility-first methodology**
+
+```typescript
+{
+  component_type: string;      // button, form, card, navigation, hero
+  requirements: string;         // Detailed specs, brand, accessibility
+  framework?: string;           // React, Vue, Angular, Svelte
+  design_system?: string;       // Material, Tailwind, Custom
+}
+```
+
+### `review_ui_implementation`
+**Expert code review with WCAG compliance verification**
+
+```typescript
+{
+  code: string;                 // Frontend code to analyze
+  framework?: string;           // React, Vue, Angular
+  review_focus?: enum;          // accessibility | performance | ux | visual-design | responsive | all
+}
+```
+
+### `generate_frontend_code`
+**Production-ready code generation with TypeScript support**
+
+```typescript
+{
+  specification: string;        // Detailed implementation requirements
+  framework?: string;           // React, Vue, Angular, Svelte
+  styling_approach?: string;    // Tailwind, CSS Modules, Styled Components
+  typescript?: boolean;         // Default: true
+}
+```
+
+### `ui_architecture_consultation`
+**Strategic frontend architecture guidance for scalable systems**
+
+```typescript
+{
+  project_context: string;              // Scale, team, constraints
+  consultation_topic: enum;             // component-architecture | state-management 
+                                        // design-system | performance | testing | deployment
+}
+```
+
+### `brand_identity_design`
+**Cohesive brand identity and design system creation**
+
+```typescript
+{
+  brand_requirements: string;           // Values, audience, industry, emotions
+  deliverables?: string;                // color-palette,typography,components,spacing
+}
+```
+
+---
+
+## 🔧 Technical Specifications
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
-### 💬 Single-Turn Chat
-**`gemini_chat`**
-
-Quick, stateless conversations with Gemini. Perfect for one-off questions, code generation, or content creation.
-
-</td>
-<td width="33%">
-
-### 🔄 Multi-Turn Conversations
-**`gemini_chat_with_history`**
-
-Maintain context across multiple exchanges. Build complex dialogues and iterative problem-solving sessions.
+**Protocol Architecture**
+- MCP SDK 1.0.4
+- Stdio Transport Layer
+- JSON Schema Validation
+- Async/Await Event Loop
 
 </td>
-<td width="33%">
+<td width="50%">
 
-### 🔍 Code Analysis
-**`gemini_analyze_code`**
-
-Deep code review, bug detection, optimization suggestions, and explanations. Supports multiple programming languages.
+**AI Model Configuration**
+- Model: `gemini-2.5-pro`
+- Temperature: 0.7
+- Max Tokens: 8192
+- Optimized Prompt Engineering
 
 </td>
 </tr>
 </table>
 
+### Integration Pattern
+
+```
+┌──────────────┐      MCP Protocol      ┌─────────────────┐
+│   Claude AI  │ ←──────────────────────→│  Gemini 2.5 Pro │
+│  (Warp IDE)  │   UI/UX Consultation   │  (UI Designer)  │
+└──────────────┘                         └─────────────────┘
+       ↓                                           ↓
+  Development                            Design Specifications
+  Implementation                         Component Architecture
+  Code Generation                        Brand Systems
+```
+
 ---
 
-## 🚀 Installation
+## 📋 Prompt Engineering
 
-### Prerequisites
+Gemini 2.5 Pro prompts are architecturally designed following Google's official best practices:
 
-- **Node.js** ≥ 18.0.0
-- **npm** ≥ 9.0.0
-- **Warp Terminal** (latest version)
-- **Google Gemini API Key** ([Get one here](https://makersuite.google.com/app/apikey))
+✓ **Structured Role Definition** - Clear expert persona establishment  
+✓ **Contextual Specifications** - Comprehensive requirement framing  
+✓ **Deliverable Taxonomy** - Explicit output structure definition  
+✓ **Constraint Declaration** - WCAG, performance, framework requirements  
+✓ **Quality Gates** - Enterprise-grade, production-ready mandates
 
-### Quick Start
+---
+
+## 🔒 Security Architecture
+
+- **Zero Credential Hardcoding** - Environment variable isolation
+- **API Key Validation** - Startup verification with fail-fast
+- **Error Sanitization** - No sensitive data in error messages
+- **Dependency Auditing** - 0 vulnerabilities (verified)
+
+**Security Contact**: info@cyberlinksec.com
+
+---
+
+## 📚 Documentation
+
+- **[SECURITY.md](./SECURITY.md)** - Security policy and best practices
+- **[CONTRIBUTING.md](./CONTRIBUTING.md)** - Contribution guidelines
+- **[AUDIT_REPORT.md](./AUDIT_REPORT.md)** - Production readiness certification
+
+---
+
+## 🎯 Use Cases
+
+| Scenario | Tool Chain |
+|----------|-----------|
+| **Component Library** | `design_ui_component` → `generate_frontend_code` → `review_ui_implementation` |
+| **Design System** | `brand_identity_design` → `ui_architecture_consultation` → `generate_frontend_code` |
+| **Code Optimization** | `review_ui_implementation` → Refactor → `review_ui_implementation` |
+| **Architecture Planning** | `ui_architecture_consultation` → `design_ui_component` → `generate_frontend_code` |
+
+---
+
+## 🧪 Testing
 
 ```bash
-# Clone or download the repository
-git clone https://github.com/bobvasic/gemini-mcp-server.git
-cd gemini-mcp-server
-
-# Install dependencies
-npm install
-
-# Run automated setup (recommended)
-./setup.sh YOUR_GEMINI_API_KEY
-```
-
-### Manual Installation
-
-```bash
-# Install dependencies
-npm install
-
-# Make scripts executable
-chmod +x index.js setup.sh
-```
-
----
-
-## ⚙️ Configuration
-
-### Method 1: Automated Setup (Recommended)
-
-```bash
-./setup.sh YOUR_GEMINI_API_KEY
-```
-
-This script automatically:
-- Creates Warp MCP configuration
-- Sets up your API key securely
-- Validates the installation
-
-### Method 2: Manual Configuration
-
-#### Step 1: Get Your API Key
-
-1. Visit [Google AI Studio](https://makersuite.google.com/app/apikey)
-2. Sign in with your Google account
-3. Generate a new API key
-4. Copy the key (keep it secure!)
-
-#### Step 2: Configure Warp
-
-Create or edit `~/.config/warp/mcp.json`:
-
-```json
-{
-  "mcpServers": {
-    "gemini": {
-      "command": "node",
-      "args": ["${HOME}/gemini-mcp-server/index.js"],
-      "env": {
-        "GEMINI_API_KEY": "your-actual-api-key-here"
-      }
-    }
-  }
-}
-```
-
-> ⚠️ **Security Best Practice**: Never commit your API key to version control. Use environment variables for production deployments.
-
-#### Step 3: Restart Warp
-
-Completely quit and restart Warp terminal for changes to take effect.
-
----
-
-## 💡 Usage
-
-### Testing the Server
-
-Verify your installation works:
-
-```bash
-export GEMINI_API_KEY="your-api-key"
-cd gemini-mcp-server
-npm start
-```
-
-You should see: `Gemini MCP Server running on stdio`
-
-### Tool Examples
-
-#### 1. Basic Conversation
-
-```json
-{
-  "tool": "gemini_chat",
-  "arguments": {
-    "message": "Explain the difference between async/await and Promises in JavaScript",
-    "temperature": 0.7,
-    "max_tokens": 2048
-  }
-}
-```
-
-**Use Cases:**
-- Quick questions and answers
-- Code generation
-- Content writing
-- Brainstorming ideas
-
-#### 2. Contextual Dialogue
-
-```json
-{
-  "tool": "gemini_chat_with_history",
-  "arguments": {
-    "messages": [
-      {
-        "role": "user",
-        "parts": [{"text": "What is dependency injection?"}]
-      },
-      {
-        "role": "model",
-        "parts": [{"text": "Dependency injection is a design pattern..."}]
-      },
-      {
-        "role": "user",
-        "parts": [{"text": "Show me an example in TypeScript"}]
-      }
-    ],
-    "temperature": 0.8
-  }
-}
-```
-
-**Use Cases:**
-- Technical tutorials
-- Iterative problem-solving
-- Learning sessions
-- Complex debugging
-
-#### 3. Code Analysis
-
-```json
-{
-  "tool": "gemini_analyze_code",
-  "arguments": {
-    "code": "function processUser(data) {\n  return data.name.toUpperCase();\n}",
-    "language": "javascript",
-    "analysis_type": "bugs"
-  }
-}
-```
-
-**Analysis Types:**
-- `bugs` - Find errors and potential issues
-- `optimize` - Performance and best practices
-- `explain` - Detailed code explanation
-- `review` - Comprehensive assessment
-
----
-
-## 📚 API Reference
-
-### Tool: `gemini_chat`
-
-**Description:** Single-turn conversation with Gemini
-
-**Parameters:**
-
-| Parameter | Type | Required | Default | Description |
-|-----------|------|----------|---------|-------------|
-| `message` | string | Yes | - | Your prompt or question |
-| `temperature` | number | No | 1.0 | Creativity (0.0-2.0) |
-| `max_tokens` | number | No | 8192 | Maximum response length |
-
-**Example Response:**
-```json
-{
-  "content": [
-    {
-      "type": "text",
-      "text": "Here's a detailed explanation..."
-    }
-  ]
-}
-```
-
----
-
-### Tool: `gemini_chat_with_history`
-
-**Description:** Multi-turn conversation with context preservation
-
-**Parameters:**
-
-| Parameter | Type | Required | Default | Description |
-|-----------|------|----------|---------|-------------|
-| `messages` | array | Yes | - | Conversation history |
-| `temperature` | number | No | 1.0 | Creativity (0.0-2.0) |
-
-**Message Format:**
-```typescript
-{
-  role: "user" | "model",
-  parts: [{ text: string }]
-}
-```
-
----
-
-### Tool: `gemini_analyze_code`
-
-**Description:** AI-powered code analysis and review
-
-**Parameters:**
-
-| Parameter | Type | Required | Default | Description |
-|-----------|------|----------|---------|-------------|
-| `code` | string | Yes | - | Code to analyze |
-| `language` | string | No | - | Programming language |
-| `analysis_type` | enum | No | review | bugs, optimize, explain, review |
-
-**Supported Languages:**
-JavaScript, TypeScript, Python, Go, Rust, Java, C++, Ruby, PHP, Swift, Kotlin, and more
-
----
-
-## 🔧 Advanced Configuration
-
-### Environment Variables
-
-```bash
-# Required
-export GEMINI_API_KEY="your-api-key"
-
-# Optional (for custom deployments)
-export MCP_SERVER_PORT="3000"  # If running as HTTP server
-export LOG_LEVEL="info"         # debug, info, warn, error
-```
-
-### Model Selection
-
-To use different Gemini models, edit `index.js`:
-
-```javascript
-const model = genAI.getGenerativeModel({ 
-  model: "gemini-2.5-pro",  // or "gemini-2.0-flash-exp"
-  generationConfig: {
-    temperature: 1.0,
-    maxOutputTokens: 8192,
-  },
-});
-```
-
-**Available Models:**
-- `gemini-2.0-flash-exp` - Fast, efficient (default)
-- `gemini-2.5-pro` - Most capable (when available)
-- `gemini-pro` - Balanced performance
-
----
-
-## 🐛 Troubleshooting
-
-### Common Issues
-
-<details>
-<summary><b>Error: "GEMINI_API_KEY environment variable is required"</b></summary>
-
-**Solution:**
-```bash
-export GEMINI_API_KEY="your-key"
-# Or add to ~/.bashrc or ~/.zshrc for persistence
-echo 'export GEMINI_API_KEY="your-key"' >> ~/.bashrc
-```
-</details>
-
-<details>
-<summary><b>Warp doesn't recognize the MCP server</b></summary>
-
-**Checklist:**
-1. Verify `~/.config/warp/mcp.json` exists and is valid JSON
-2. Ensure paths in config use absolute paths or `${HOME}`
-3. Completely quit and restart Warp (not just close window)
-4. Check Warp logs: `Settings → Advanced → View Logs`
-</details>
-
-<details>
-<summary><b>API calls fail with 403 or 401 errors</b></summary>
-
-**Possible causes:**
-- Invalid API key
-- API key not activated
-- Billing not enabled on Google Cloud
-- Rate limits exceeded
-
-**Solution:** Verify your API key at [Google AI Studio](https://makersuite.google.com/app/apikey)
-</details>
-
-<details>
-<summary><b>Server starts but responses are empty</b></summary>
-
-**Debug steps:**
-```bash
-export GEMINI_API_KEY="your-key"
-node index.js 2>&1 | tee debug.log
-# Then check debug.log for errors
-```
-</details>
-
----
-
-## 🔒 Security
-
-### Best Practices
-
-1. **Never commit API keys** - Use environment variables
-2. **Rotate keys regularly** - Generate new keys every 90 days
-3. **Use key restrictions** - Limit keys to specific APIs in Google Cloud Console
-4. **Monitor usage** - Check Google Cloud Console for unexpected activity
-5. **Audit logs** - Review MCP server logs periodically
-
-### Reporting Security Issues
-
-Please report security vulnerabilities to **info@cyberlinksec.com**. Do not create public issues for security concerns.
-
-See [SECURITY.md](SECURITY.md) for our full security policy.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-### Development Setup
-
-```bash
-# Clone the repo
-git clone https://github.com/bobvasic/gemini-mcp-server.git
-cd gemini-mcp-server
-
-# Install dependencies
-npm install
-
-# Run in development mode
+# Verify installation
 export GEMINI_API_KEY="your-key"
 npm start
+# Expected: "Gemini MCP Server running on stdio"
+
+# Test via Claude in Warp
+# Call tool: gemini-ui-designer/design_ui_component
 ```
 
-### Contribution Guidelines
+---
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+## 📞 Support
 
-### Code Standards
-
-- Follow existing code style
-- Add tests for new features
-- Update documentation
-- Ensure no hardcoded credentials
-- Use meaningful commit messages
+**Technical Issues** → [GitHub Issues](https://github.com/bobvasic/gemini-ui-design-server/issues)  
+**Security Concerns** → info@cyberlinksec.com  
+**Enterprise Consulting** → CyberLink Security
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License - Copyright (c) 2025 Gemini MCP Server Contributors
-```
-
----
-
-## 🙏 Acknowledgments
-
-- [Model Context Protocol](https://modelcontextprotocol.io/) - MCP specification
-- [Google AI](https://ai.google.dev/) - Gemini API
-- [Warp Terminal](https://www.warp.dev/) - Modern terminal platform
-- All [contributors](https://github.com/bobvasic/gemini-mcp-server/graphs/contributors) who helped build this project
-
----
-
-## 📊 Stats & Metrics
-
-- **Response Time**: < 2s average
-- **Uptime**: 99.9% (dependent on Google API)
-- **Models Supported**: 3+ Gemini variants
-- **Languages**: JavaScript/TypeScript
-- **MCP Version**: 1.0.4
-
----
-
-## 🗺️ Roadmap
-
-- [ ] Add streaming response support
-- [ ] Implement token usage tracking
-- [ ] Add conversation history persistence
-- [ ] Support for image inputs
-- [ ] Multi-language documentation
-- [ ] Docker container support
-- [ ] Health check endpoints
-- [ ] Prometheus metrics export
+MIT License - Copyright © 2025 CyberLink Security
 
 ---
 
 <div align="center">
 
-**Built with ❤️ for the developer community**
+**Built for Enterprise-Grade UI/UX Development**
 
-If this project helped you, please ⭐ star the repository!
+![Dark Blue](https://img.shields.io/badge/Theme-1a73e8-1a73e8?style=flat-square)
+![Neon Green](https://img.shields.io/badge/Accent-00e5ff-00e5ff?style=flat-square)
 
-[Documentation](https://github.com/bobvasic/gemini-mcp-server/wiki) • [Issues](https://github.com/bobvasic/gemini-mcp-server/issues) • [Discussions](https://github.com/bobvasic/gemini-mcp-server/discussions)
+*Engineered by CyberLink Security | Powered by Gemini 2.5 Pro*
 
 </div>
